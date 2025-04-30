@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋- 
+🌱 I’m currently learning ...
 <!--
 **ser2ra/ser2ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
